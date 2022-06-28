@@ -1,0 +1,5436 @@
+fileFormatVersion: 2
+guid: 6d667b3a3551643529cb935033f0af89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5098425181939386807
+    second: nabor_0
+  - first:
+      213: 6667495551654203342
+    second: nabor_1
+  - first:
+      213: 6396172563675779380
+    second: nabor_2
+  - first:
+      213: 3065842227400671148
+    second: nabor_3
+  - first:
+      213: 2149500827955449695
+    second: nabor_4
+  - first:
+      213: -4392459196193628691
+    second: nabor_5
+  - first:
+      213: -3670097932368798518
+    second: nabor_6
+  - first:
+      213: 696600625791026458
+    second: nabor_7
+  - first:
+      213: -8990386320046460296
+    second: nabor_8
+  - first:
+      213: -2800136171357106824
+    second: nabor_9
+  - first:
+      213: 2577018476043746361
+    second: nabor_10
+  - first:
+      213: -1407928805131470410
+    second: nabor_11
+  - first:
+      213: -6026802290570864392
+    second: nabor_12
+  - first:
+      213: 8237910547609369967
+    second: nabor_13
+  - first:
+      213: 7279789491292634465
+    second: nabor_14
+  - first:
+      213: -6139311883808374685
+    second: nabor_15
+  - first:
+      213: -3082725601665678630
+    second: nabor_16
+  - first:
+      213: -5248311865237064462
+    second: nabor_17
+  - first:
+      213: 6576615819591300964
+    second: nabor_18
+  - first:
+      213: -6182541025200515963
+    second: nabor_19
+  - first:
+      213: -3471262549014046945
+    second: nabor_20
+  - first:
+      213: 588603502100250249
+    second: nabor_21
+  - first:
+      213: -513292091944515789
+    second: nabor_22
+  - first:
+      213: 7426400749019800913
+    second: nabor_23
+  - first:
+      213: -6863182828560776771
+    second: nabor_24
+  - first:
+      213: 5981971981667819353
+    second: nabor_25
+  - first:
+      213: -5485484196776781430
+    second: nabor_26
+  - first:
+      213: 6955074895222357107
+    second: nabor_27
+  - first:
+      213: 5212161371323417290
+    second: nabor_28
+  - first:
+      213: 3964379384449426624
+    second: nabor_29
+  - first:
+      213: -5043750878535463092
+    second: nabor_30
+  - first:
+      213: -4394352672450654287
+    second: nabor_31
+  - first:
+      213: 8499779132695247198
+    second: nabor_32
+  - first:
+      213: -9221487978951162791
+    second: nabor_33
+  - first:
+      213: -8126318873520708843
+    second: nabor_34
+  - first:
+      213: 1292866983475470754
+    second: nabor_35
+  - first:
+      213: -7223151663933937932
+    second: nabor_36
+  - first:
+      213: 7489511154472675516
+    second: nabor_37
+  - first:
+      213: 946591757834409309
+    second: nabor_38
+  - first:
+      213: 5837811527691509140
+    second: nabor_39
+  - first:
+      213: -5165287857972140090
+    second: nabor_40
+  - first:
+      213: -2403162930805615483
+    second: nabor_41
+  - first:
+      213: -325198037126761351
+    second: nabor_42
+  - first:
+      213: -1063638087905717722
+    second: nabor_43
+  - first:
+      213: 1955834078598851535
+    second: nabor_44
+  - first:
+      213: 2248203965835634663
+    second: nabor_45
+  - first:
+      213: 3353130687221754731
+    second: nabor_46
+  - first:
+      213: 5365480303478399316
+    second: nabor_47
+  - first:
+      213: 5894155802570237813
+    second: nabor_48
+  - first:
+      213: -6106747751983821393
+    second: nabor_49
+  - first:
+      213: 4209253504158901978
+    second: nabor_50
+  - first:
+      213: -6009643997526369502
+    second: nabor_51
+  - first:
+      213: 1228966711280606192
+    second: nabor_52
+  - first:
+      213: 3605850563218476777
+    second: nabor_53
+  - first:
+      213: -2580724149479072643
+    second: nabor_54
+  - first:
+      213: 8289252102388089970
+    second: nabor_55
+  - first:
+      213: 6714495635117157587
+    second: nabor_56
+  - first:
+      213: -6158050289950382567
+    second: nabor_57
+  - first:
+      213: -579875146429523691
+    second: nabor_58
+  - first:
+      213: -5116173606736052103
+    second: nabor_59
+  - first:
+      213: 6749721639814212513
+    second: nabor_60
+  - first:
+      213: 6029489660507378489
+    second: nabor_61
+  - first:
+      213: 256698652505467170
+    second: nabor_62
+  - first:
+      213: -6447516950863015586
+    second: nabor_63
+  - first:
+      213: -2259541876533859572
+    second: nabor_64
+  - first:
+      213: 7699955440549158821
+    second: nabor_65
+  - first:
+      213: -71491123923211343
+    second: nabor_66
+  - first:
+      213: -75103530531556141
+    second: nabor_67
+  - first:
+      213: 4721924278594183770
+    second: nabor_68
+  - first:
+      213: 735273706999328208
+    second: nabor_69
+  - first:
+      213: -4889479186649166004
+    second: nabor_70
+  - first:
+      213: 4945606751600081781
+    second: nabor_71
+  - first:
+      213: -1172713510675486611
+    second: nabor_72
+  - first:
+      213: -3970643265040503936
+    second: nabor_73
+  - first:
+      213: -3466443139377366450
+    second: nabor_74
+  - first:
+      213: -4925881254504656464
+    second: nabor_75
+  - first:
+      213: -5367489830426380538
+    second: nabor_76
+  - first:
+      213: 6033642197979821680
+    second: nabor_77
+  - first:
+      213: -6029688086189714679
+    second: nabor_78
+  - first:
+      213: 3044498802585909844
+    second: nabor_79
+  - first:
+      213: 8042073906767813857
+    second: nabor_80
+  - first:
+      213: 482220406111093205
+    second: nabor_81
+  - first:
+      213: 415251019791406607
+    second: nabor_82
+  - first:
+      213: -9203641864283190277
+    second: nabor_83
+  - first:
+      213: 5732296315199645598
+    second: nabor_84
+  - first:
+      213: -7048098915478983874
+    second: nabor_85
+  - first:
+      213: -9094564867680372895
+    second: nabor_86
+  - first:
+      213: 4846673728484601547
+    second: nabor_87
+  - first:
+      213: -3374435500754971748
+    second: nabor_88
+  - first:
+      213: 1232944089810346245
+    second: nabor_89
+  - first:
+      213: 2768618329910510635
+    second: nabor_90
+  - first:
+      213: -8636980287466640761
+    second: nabor_91
+  - first:
+      213: -3318274246346821145
+    second: nabor_92
+  - first:
+      213: 5823207279830814638
+    second: nabor_93
+  - first:
+      213: 3224964897071108524
+    second: nabor_94
+  - first:
+      213: -3050301758666072841
+    second: nabor_95
+  - first:
+      213: 8483545869822643991
+    second: nabor_96
+  - first:
+      213: -5217227374710711566
+    second: nabor_97
+  - first:
+      213: 7602580956827555351
+    second: nabor_98
+  - first:
+      213: 3709034335970521940
+    second: nabor_99
+  - first:
+      213: -8396597412098809856
+    second: nabor_100
+  - first:
+      213: 3137780487457503835
+    second: nabor_101
+  - first:
+      213: 1091093048133079272
+    second: nabor_102
+  - first:
+      213: 9118988549966676227
+    second: nabor_103
+  - first:
+      213: 5415534090611103255
+    second: nabor_104
+  - first:
+      213: -7879091987532583442
+    second: nabor_105
+  - first:
+      213: 6905477185042831330
+    second: nabor_106
+  - first:
+      213: -2451995241748879332
+    second: nabor_107
+  - first:
+      213: 8042866319020383634
+    second: nabor_108
+  - first:
+      213: 6158904773190257773
+    second: nabor_109
+  - first:
+      213: 4740474238725796660
+    second: nabor_110
+  - first:
+      213: 515386618539337689
+    second: nabor_111
+  - first:
+      213: -3307809746021505714
+    second: nabor_112
+  - first:
+      213: -1831643995595570312
+    second: nabor_113
+  - first:
+      213: 2605984023876794796
+    second: nabor_114
+  - first:
+      213: 4449052966895079730
+    second: nabor_115
+  - first:
+      213: -6366474074099988768
+    second: nabor_116
+  - first:
+      213: -3167094916040130545
+    second: nabor_117
+  - first:
+      213: -2576253690630940150
+    second: nabor_118
+  - first:
+      213: -8875653723279531925
+    second: nabor_119
+  - first:
+      213: 1256826431906224510
+    second: nabor_120
+  - first:
+      213: 5534997026057354470
+    second: nabor_121
+  - first:
+      213: -6342682043692428781
+    second: nabor_122
+  - first:
+      213: -3684778017285703240
+    second: nabor_123
+  - first:
+      213: -5636199636267259468
+    second: nabor_124
+  - first:
+      213: 6035281243584228310
+    second: nabor_125
+  - first:
+      213: -8004545502752965562
+    second: nabor_126
+  - first:
+      213: 8685199997787253811
+    second: nabor_127
+  - first:
+      213: -1558824947164749475
+    second: nabor_128
+  - first:
+      213: -3536601868318608457
+    second: nabor_129
+  - first:
+      213: 7758083903191159458
+    second: nabor_130
+  - first:
+      213: 1987107117690848262
+    second: nabor_131
+  - first:
+      213: 2693737614612403225
+    second: nabor_132
+  - first:
+      213: -8833087664834998597
+    second: nabor_133
+  - first:
+      213: 4307023979218038007
+    second: nabor_134
+  - first:
+      213: -1896140533453361768
+    second: nabor_135
+  - first:
+      213: 3238098033815200446
+    second: nabor_136
+  - first:
+      213: 4479237219149701665
+    second: nabor_137
+  - first:
+      213: 5587806661798031755
+    second: nabor_138
+  - first:
+      213: 4645979270220131450
+    second: nabor_139
+  - first:
+      213: 8806098192416730761
+    second: nabor_140
+  - first:
+      213: -4051672693414602551
+    second: nabor_141
+  - first:
+      213: -7951046006879819665
+    second: nabor_142
+  - first:
+      213: -8500378911928055014
+    second: nabor_143
+  - first:
+      213: 3956072355375027013
+    second: nabor_144
+  - first:
+      213: 405008511486452663
+    second: nabor_145
+  - first:
+      213: -8741693983073391617
+    second: nabor_146
+  - first:
+      213: 4630005817492077060
+    second: nabor_147
+  - first:
+      213: 3697145133152487115
+    second: nabor_148
+  - first:
+      213: -5240713360061141119
+    second: nabor_149
+  - first:
+      213: 4121232749104402383
+    second: nabor_150
+  - first:
+      213: -7177751926617469469
+    second: nabor_151
+  - first:
+      213: 7090556458539831982
+    second: nabor_152
+  - first:
+      213: 3647901200551847849
+    second: nabor_153
+  - first:
+      213: -2282536495320039123
+    second: nabor_154
+  - first:
+      213: 6068684541765852885
+    second: nabor_155
+  - first:
+      213: 3286922133701347638
+    second: nabor_156
+  - first:
+      213: -6506049674506073389
+    second: nabor_157
+  - first:
+      213: -5404715047621574662
+    second: nabor_158
+  - first:
+      213: 2028537395372589175
+    second: nabor_159
+  - first:
+      213: 227892461416855036
+    second: nabor_160
+  - first:
+      213: 6160568583465912697
+    second: nabor_161
+  - first:
+      213: 6527775830646024735
+    second: nabor_162
+  - first:
+      213: 318861116917296946
+    second: nabor_163
+  - first:
+      213: 9064158437016706177
+    second: nabor_164
+  - first:
+      213: -2095508741965428767
+    second: nabor_165
+  - first:
+      213: -1604136292289919488
+    second: nabor_166
+  - first:
+      213: -7932532998757437306
+    second: nabor_167
+  - first:
+      213: 8399079105991656473
+    second: nabor_168
+  - first:
+      213: 3480051052779526631
+    second: nabor_169
+  - first:
+      213: 5404748097934372680
+    second: nabor_170
+  - first:
+      213: 3013200467168342520
+    second: nabor_171
+  - first:
+      213: 8112234225918239840
+    second: nabor_172
+  - first:
+      213: -2529638433385594783
+    second: nabor_173
+  - first:
+      213: 7917131121655890590
+    second: nabor_174
+  - first:
+      213: -5026945102920825312
+    second: nabor_175
+  - first:
+      213: -2654983757984092311
+    second: nabor_176
+  - first:
+      213: 6156059824571077802
+    second: nabor_177
+  - first:
+      213: -5670428429058882952
+    second: nabor_178
+  - first:
+      213: 5262776627463640636
+    second: nabor_179
+  - first:
+      213: -8835950941910178198
+    second: nabor_180
+  - first:
+      213: 7326806064279785637
+    second: nabor_181
+  - first:
+      213: 2882958610563460199
+    second: nabor_182
+  - first:
+      213: 2843842838850902975
+    second: nabor_183
+  - first:
+      213: 8013054546431055105
+    second: nabor_184
+  - first:
+      213: -4397652538592189161
+    second: nabor_185
+  - first:
+      213: -5524719179576690687
+    second: nabor_186
+  - first:
+      213: -4093682625429232873
+    second: nabor_187
+  - first:
+      213: 8023918161720806824
+    second: nabor_188
+  - first:
+      213: 677745429405887530
+    second: nabor_189
+  - first:
+      213: -2980975647332564706
+    second: nabor_190
+  - first:
+      213: -8263058516446919181
+    second: nabor_191
+  - first:
+      213: -3618195100905590885
+    second: nabor_192
+  - first:
+      213: -836437596671672788
+    second: nabor_193
+  - first:
+      213: 7099984578397762433
+    second: nabor_194
+  - first:
+      213: -8611304153641794601
+    second: nabor_195
+  - first:
+      213: 5566001164681235751
+    second: nabor_196
+  - first:
+      213: -8372850576198147307
+    second: nabor_197
+  - first:
+      213: 3937355457435448744
+    second: nabor_198
+  - first:
+      213: -5766417544491130247
+    second: nabor_199
+  - first:
+      213: -2897997137332660305
+    second: nabor_200
+  - first:
+      213: 343071768140227079
+    second: nabor_201
+  - first:
+      213: 8401415786462628861
+    second: nabor_202
+  - first:
+      213: 7682177345327461743
+    second: nabor_203
+  - first:
+      213: -7496248590369367340
+    second: nabor_204
+  - first:
+      213: 3336190890336556875
+    second: nabor_205
+  - first:
+      213: -2553963367135396178
+    second: nabor_206
+  - first:
+      213: -1323713057683932407
+    second: nabor_207
+  - first:
+      213: -5521018471652492362
+    second: nabor_208
+  - first:
+      213: 6829253077016941353
+    second: nabor_209
+  - first:
+      213: -7389774758986612024
+    second: nabor_210
+  - first:
+      213: 5699208037510759584
+    second: nabor_211
+  - first:
+      213: 8810645634135685710
+    second: nabor_212
+  - first:
+      213: -2167330990435525446
+    second: nabor_213
+  - first:
+      213: -1076206237859178146
+    second: nabor_214
+  - first:
+      213: -2106489655122530953
+    second: nabor_215
+  - first:
+      213: 1020870504796827714
+    second: nabor_216
+  - first:
+      213: -5996930105753082490
+    second: nabor_217
+  - first:
+      213: -2588578584577457960
+    second: nabor_218
+  - first:
+      213: 400363820399069926
+    second: nabor_219
+  - first:
+      213: 1816356144034103856
+    second: nabor_220
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nabor_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 802
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9476bb0be31c640800000000000000
+      internalID: 5098425181939386807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 794
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf88d9d0e3b78c50800000000000000
+      internalID: 6667495551654203342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 794
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319efbee05c3c850800000000000000
+      internalID: 6396172563675779380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 794
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caffb95234f0c8a20800000000000000
+      internalID: 3065842227400671148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_4
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 794
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f41be4d9f84dd10800000000000000
+      internalID: 2149500827955449695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 579
+        width: 136
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded1b7022a9da03c0800000000000000
+      internalID: -4392459196193628691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_6
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 579
+        width: 135
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc13422061311dc0800000000000000
+      internalID: -3670097932368798518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_7
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 801
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c6921492daa900800000000000000
+      internalID: 696600625791026458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 811
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8727918664bbb3380800000000000000
+      internalID: -8990386320046460296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_9
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 813
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d8987ecfae329d0800000000000000
+      internalID: -2800136171357106824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_10
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 810
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cb43c76a863c320800000000000000
+      internalID: 2577018476043746361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_11
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 811
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b939151638067ce0800000000000000
+      internalID: -1407928805131470410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_12
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 812
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f853038f3f7c5ca0800000000000000
+      internalID: -6026802290570864392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_13
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 699
+        width: 114
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d33b92fffe25270800000000000000
+      internalID: 8237910547609369967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_14
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 579
+        width: 135
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d7e1ce8f1070560800000000000000
+      internalID: 7279789491292634465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_15
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 787
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36084408e58cccaa0800000000000000
+      internalID: -6139311883808374685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_16
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 698
+        width: 114
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad207b4f565f735d0800000000000000
+      internalID: -3082725601665678630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 797
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b3125a204a27b0800000000000000
+      internalID: -5248311865237064462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_18
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 796
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46734f65e35d44b50800000000000000
+      internalID: 6576615819591300964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_19
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 797
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584d4afa1b3333aa0800000000000000
+      internalID: -6182541025200515963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_20
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 795
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1796eb6a1993dfc0800000000000000
+      internalID: -3471262549014046945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_21
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 799
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e7c3044c32b2800800000000000000
+      internalID: 588603502100250249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_22
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 787
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33741a9df8b60e8f0800000000000000
+      internalID: -513292091944515789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 771
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155250d6220ef0760800000000000000
+      internalID: 7426400749019800913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 771
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db10313849311c0a0800000000000000
+      internalID: -6863182828560776771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 771
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f56afc2db340350800000000000000
+      internalID: 5981971981667819353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 771
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d916bf25afd3b0800000000000000
+      internalID: -5485484196776781430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 771
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c37f384c3658060800000000000000
+      internalID: 6955074895222357107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_28
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 769
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2ceb9e621555840800000000000000
+      internalID: 5212161371323417290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_29
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 780
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c46df4cb0e440730800000000000000
+      internalID: 3964379384449426624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_30
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 771
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f44558c4ff00ab0800000000000000
+      internalID: -5043750878535463092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_31
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 783
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf4ac4d68f1403c0800000000000000
+      internalID: -4394352672450654287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_32
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 781
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59f391661845f570800000000000000
+      internalID: 8499779132695247198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_33
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 781
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954c41a6a81b60080800000000000000
+      internalID: -9221487978951162791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_34
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 778
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513ee342a04893f80800000000000000
+      internalID: -8126318873520708843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_35
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 767
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e2ebebaf21f110800000000000000
+      internalID: 1292866983475470754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_36
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 770
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f62270e4d532cb90800000000000000
+      internalID: -7223151663933937932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_37
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 765
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86bafb6b610f760800000000000000
+      internalID: 7489511154472675516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_38
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 771
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5558014038f22d00800000000000000
+      internalID: 946591757834409309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_39
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 774
+        width: 94
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d9bb587a2140150800000000000000
+      internalID: 5837811527691509140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_40
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 767
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7aeee5f063158b0800000000000000
+      internalID: -5165287857972140090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 736
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584d1f30c0046aed0800000000000000
+      internalID: -2403162930805615483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_42
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 736
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974b763bb1aac7bf0800000000000000
+      internalID: -325198037126761351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 736
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622ddc06bc23d31f0800000000000000
+      internalID: -1063638087905717722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 736
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbec766bb4842b10800000000000000
+      internalID: 1955834078598851535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 736
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7e14e6899333f10800000000000000
+      internalID: 2248203965835634663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_46
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 736
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b60592896b88e20800000000000000
+      internalID: 3353130687221754731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_47
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 747
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4516f2298e3067a40800000000000000
+      internalID: 5365480303478399316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 748
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577a10f497f3cc150800000000000000
+      internalID: 5894155802570237813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_49
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 758
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadc6164649704ba0800000000000000
+      internalID: -6106747751983821393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_50
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 754
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6a5fca2c54a6a30800000000000000
+      internalID: 4209253504158901978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_51
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 757
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bd1ecef94799ca0800000000000000
+      internalID: -6009643997526369502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_52
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 753
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb19aa66ba2e0110800000000000000
+      internalID: 1228966711280606192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_53
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 754
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee87cd8bfd8a0230800000000000000
+      internalID: 3605850563218476777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_54
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 756
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c170f2f0d6f2cd0800000000000000
+      internalID: -2580724149479072643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_55
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 741
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27480886ed6590370800000000000000
+      internalID: 8289252102388089970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 723
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca119843eae2d50800000000000000
+      internalID: 6714495635117157587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_57
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 724
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916248653e53a8aa0800000000000000
+      internalID: -6158050289950382567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_58
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 724
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5199dfa60aed3f7f0800000000000000
+      internalID: -579875146429523691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_59
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 739
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970c4491633bff8b0800000000000000
+      internalID: -5116173606736052103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_60
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 739
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aba4e1e114dbad50800000000000000
+      internalID: 6749721639814212513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_61
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 735
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933de6f86ec0da350800000000000000
+      internalID: 6029489660507378489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_62
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 699
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e8ec701aff8300800000000000000
+      internalID: 256698652505467170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_63
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 700
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51108c5e71d586a0800000000000000
+      internalID: -6447516950863015586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_64
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 707
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b641682ae74a0e0800000000000000
+      internalID: -2259541876533859572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_65
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 707
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afd4445dacbbda60800000000000000
+      internalID: 7699955440549158821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_66
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 715
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bba6f99333020ff0800000000000000
+      internalID: -71491123923211343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_67
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 688
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4f945acbd25fef0800000000000000
+      internalID: -75103530531556141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_68
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 692
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5226e11d15a78140800000000000000
+      internalID: 4721924278594183770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_69
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 677
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd21667a87343a00800000000000000
+      internalID: 735273706999328208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_70
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 678
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f4c17d594152cb0800000000000000
+      internalID: -4889479186649166004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_71
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 684
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b75eb332352a440800000000000000
+      internalID: 4945606751600081781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_72
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 684
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e2ec764fa9bfe0800000000000000
+      internalID: -1172713510675486611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_73
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 606
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ba671ecf075e8c0800000000000000
+      internalID: -3970643265040503936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_74
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 689
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a725ba458b4efc0800000000000000
+      internalID: -3466443139377366450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_75
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 689
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b19e73f811c3abb0800000000000000
+      internalID: -4925881254504656464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_76
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 689
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607f9e9ff68d285b0800000000000000
+      internalID: -5367489830426380538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_77
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 497
+        width: 114
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076f4688c9dcbb350800000000000000
+      internalID: 6033642197979821680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_78
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 661
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903d14cd1ae325ca0800000000000000
+      internalID: -6029688086189714679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_79
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 661
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a3c3fc78b304a20800000000000000
+      internalID: 3044498802585909844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_80
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 658
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec55560c9f2b9f60800000000000000
+      internalID: 8042073906767813857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_81
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 677
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d142b987e031b600800000000000000
+      internalID: 482220406111093205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_82
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 678
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0619473a9443c500800000000000000
+      internalID: 415251019791406607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_83
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 648
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb8c77cc78164080800000000000000
+      internalID: -9203641864283190277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_84
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 662
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9761cea0253d8f40800000000000000
+      internalID: 5732296315199645598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_85
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 659
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b2f09f06f103e90800000000000000
+      internalID: -7048098915478983874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_86
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 662
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167f92b107d99c180800000000000000
+      internalID: -9094564867680372895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_87
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 676
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceea88c318d24340800000000000000
+      internalID: 4846673728484601547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_88
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 651
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9358046ac89b21d0800000000000000
+      internalID: -3374435500754971748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_89
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 652
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50120150e1c4c1110800000000000000
+      internalID: 1232944089810346245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_90
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 664
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2483f8c3bb1c6620800000000000000
+      internalID: 2768618329910510635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 627
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aef717038432880800000000000000
+      internalID: -8636980287466640761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_92
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 627
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1bb27672f13f1d0800000000000000
+      internalID: -3318274246346821145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_93
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 628
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc8c71b2030d050800000000000000
+      internalID: 5823207279830814638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_94
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 643
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1170fbc7061cc20800000000000000
+      internalID: 3224964897071108524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_95
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 636
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc95f036b62ba5d0800000000000000
+      internalID: -3050301758666072841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_96
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 622
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc286550c9bb570800000000000000
+      internalID: 8483545869822643991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_97
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 637
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa9ce1485fa897b0800000000000000
+      internalID: -5217227374710711566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_98
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 606
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7161bdb991bc18960800000000000000
+      internalID: 7602580956827555351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_99
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 607
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453ff37c313297330800000000000000
+      internalID: 3709034335970521940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_100
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 624
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000e2e9042b497b80800000000000000
+      internalID: -8396597412098809856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_101
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 618
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a7e0a8ab2ab8b20800000000000000
+      internalID: 3137780487457503835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_102
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 612
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0dedea857542f00800000000000000
+      internalID: 1091093048133079272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_103
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 624
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3014e9f85c72d8e70800000000000000
+      internalID: 9118988549966676227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_104
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 621
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71694eb0097d72b40800000000000000
+      internalID: 5415534090611103255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_105
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 595
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed6e722597d7a290800000000000000
+      internalID: -7879091987532583442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_106
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 598
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7da0bb9ee25df50800000000000000
+      internalID: 6905477185042831330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_107
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 597
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c182c90a153c8fdd0800000000000000
+      internalID: -2451995241748879332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_108
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 586
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd921ed400e9f60800000000000000
+      internalID: 8042866319020383634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_109
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 601
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c867b8243d87550800000000000000
+      internalID: 6158904773190257773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_110
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 595
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433342a343c89c140800000000000000
+      internalID: 4740474238725796660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_111
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 570
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7e6002665072700800000000000000
+      internalID: 515386618539337689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_112
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 603
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4520dfbf8c4812d0800000000000000
+      internalID: -3307809746021505714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_113
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 603
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8738c8f8d71b496e0800000000000000
+      internalID: -1831643995595570312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_114
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 602
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9f481a9a05a2420800000000000000
+      internalID: 2605984023876794796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 585
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231ddaee9163ebd30800000000000000
+      internalID: 4449052966895079730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_116
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 577
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e649858f8db5a7a0800000000000000
+      internalID: -6366474074099988768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_117
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 571
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f008b7f24f73c04d0800000000000000
+      internalID: -3167094916040130545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_118
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 580
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a57aefaee4f3cd0800000000000000
+      internalID: -2576253690630940150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_119
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 580
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ec82c6f753d480800000000000000
+      internalID: -8875653723279531925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_120
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 580
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79971a1bf4217110800000000000000
+      internalID: 1256826431906224510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_121
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 557
+        width: 77
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecfdf2387240dc40800000000000000
+      internalID: 5534997026057354470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_122
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 562
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312d67649444af7a0800000000000000
+      internalID: -6342682043692428781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_123
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 563
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b974838ae90ddcc0800000000000000
+      internalID: -3684778017285703240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_124
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 326
+        width: 135
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9aa1dea4238c1b0800000000000000
+      internalID: -5636199636267259468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_125
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 325
+        width: 135
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db6a639050a1c350800000000000000
+      internalID: 6035281243584228310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_126
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 556
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c75ff66442ae090800000000000000
+      internalID: -8004545502752965562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_127
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 556
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c255fb167088870800000000000000
+      internalID: 8685199997787253811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_128
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 556
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d516a3538f0fd5ae0800000000000000
+      internalID: -1558824947164749475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_129
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 536
+        width: 80
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3f2e6a6577beec0800000000000000
+      internalID: -3536601868318608457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_130
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 537
+        width: 80
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29263b4304aab60800000000000000
+      internalID: 7758083903191159458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_131
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 529
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6040d98356f939b10800000000000000
+      internalID: 1987107117690848262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_132
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 551
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9149415a614126520800000000000000
+      internalID: 2693737614612403225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_133
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 551
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe00ab81919a6580800000000000000
+      internalID: -8833087664834998597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_134
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 551
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc61605d7f95cb30800000000000000
+      internalID: 4307023979218038007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_135
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 551
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dea432b3e8fa5e0800000000000000
+      internalID: -1896140533453361768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_136
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 551
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2227d610900fc20800000000000000
+      internalID: 3238098033815200446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_137
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 551
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1226020d482792e30800000000000000
+      internalID: 4479237219149701665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_138
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 551
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81780ead80eb8d40800000000000000
+      internalID: 5587806661798031755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_139
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 551
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cac43e785d97040800000000000000
+      internalID: 4645979270220131450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_140
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 551
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e653836ab853a70800000000000000
+      internalID: 8806098192416730761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_141
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 518
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c85fdae62195c7c0800000000000000
+      internalID: -4051672693414602551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_142
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 529
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e32f78c538a190800000000000000
+      internalID: -7951046006879819665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_143
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 529
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b8e42aa66980a80800000000000000
+      internalID: -8500378911928055014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_144
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 523
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5431fd7d8dac6e630800000000000000
+      internalID: 3956072355375027013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_145
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 533
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3e82a6811ee9500800000000000000
+      internalID: 405008511486452663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_146
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 533
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbadbb43a34fa680800000000000000
+      internalID: -8741693983073391617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_147
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 533
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a7b9b92c5114040800000000000000
+      internalID: 4630005817492077060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_148
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 533
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc64e9809e5ee4330800000000000000
+      internalID: 3697145133152487115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_149
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 533
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f69eb27fe3547b0800000000000000
+      internalID: -5240713360061141119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_150
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 533
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf031f995f813930800000000000000
+      internalID: 4121232749104402383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_151
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 531
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed0710f6a0836c90800000000000000
+      internalID: -7177751926617469469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_152
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 533
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea25e1b1887b66260800000000000000
+      internalID: 7090556458539831982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_153
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 531
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a72d9280d2ff9230800000000000000
+      internalID: 3647901200551847849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_154
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 533
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d218591a62dc250e0800000000000000
+      internalID: -2282536495320039123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_155
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 533
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de9bddff6c483450800000000000000
+      internalID: 6068684541765852885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_156
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 533
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63943a7044e7d9d20800000000000000
+      internalID: 3286922133701347638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_157
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 533
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da0504aa4ed5b5a0800000000000000
+      internalID: -6506049674506073389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_158
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 533
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affbe42bc489ef4b0800000000000000
+      internalID: -5404715047621574662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_159
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 531
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77087c07300d62c10800000000000000
+      internalID: 2028537395372589175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_160
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 531
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5bdb97cf2a92300800000000000000
+      internalID: 227892461416855036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_161
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 533
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979caef8c7cbe7550800000000000000
+      internalID: 6160568583465912697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_162
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 533
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a69074881579a50800000000000000
+      internalID: 6527775830646024735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_163
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 533
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f2a861f72dc6400800000000000000
+      internalID: 318861116917296946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_164
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 533
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c9d32131c5acd70800000000000000
+      internalID: 9064158437016706177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_165
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 533
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7cc63d6e14be2e0800000000000000
+      internalID: -2095508741965428767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_166
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 533
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0064fbe8a86fcb9e0800000000000000
+      internalID: -1604136292289919488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_167
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 533
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680bff7144bf9e190800000000000000
+      internalID: -7932532998757437306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_168
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 531
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914c90952f58f8470800000000000000
+      internalID: 8399079105991656473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_169
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 533
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d5219eff9b4030800000000000000
+      internalID: 3480051052779526631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_170
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 532
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fa8dd62c5810b40800000000000000
+      internalID: 5404748097934372680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_171
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 518
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f13c9a3cd901d920800000000000000
+      internalID: 3013200467168342520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_172
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 517
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0646f9a4c02749070800000000000000
+      internalID: 8112234225918239840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_173
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 519
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16040e75f3be4ecd0800000000000000
+      internalID: -2529638433385594783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_174
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 500
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e924d72fecc4fdd60800000000000000
+      internalID: 7917131121655890590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_175
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 500
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026c3031014bc3ab0800000000000000
+      internalID: -5026945102920825312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_176
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 500
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f2decb65a972bd0800000000000000
+      internalID: -2654983757984092311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_177
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 500
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4dc935bc7be6550800000000000000
+      internalID: 6156059824571077802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_178
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 487
+        width: 135
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8724ba113679e41b0800000000000000
+      internalID: -5670428429058882952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_179
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 500
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36d2349573290940800000000000000
+      internalID: 5262776627463640636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_180
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 500
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a666aa6ee65606580800000000000000
+      internalID: -8835950941910178198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_181
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 494
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0139fdb4b0ea560800000000000000
+      internalID: 7326806064279785637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_182
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 486
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ce9cce493520820800000000000000
+      internalID: 2882958610563460199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_183
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 486
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb1fbe9efb577720800000000000000
+      internalID: 2843842838850902975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_184
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 455
+        width: 135
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1051adda7a6143f60800000000000000
+      internalID: 8013054546431055105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_185
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 474
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7152e9fd05668f2c0800000000000000
+      internalID: -4397652538592189161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_186
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 471
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1083b896d214453b0800000000000000
+      internalID: -5524719179576690687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_187
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 467
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7132a1867515037c0800000000000000
+      internalID: -4093682625429232873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_188
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 454
+        width: 165
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad8c283e0faa5f60800000000000000
+      internalID: 8023918161720806824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_189
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 426
+        width: 135
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ce1ef80e5d76900800000000000000
+      internalID: 677745429405887530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_190
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 282
+        width: 114
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1107a0517271a6d0800000000000000
+      internalID: -2980975647332564706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_191
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 450
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f54ae01f08b35d80800000000000000
+      internalID: -8263058516446919181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_192
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 449
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fa67ac9b699cdc0800000000000000
+      internalID: -3618195100905590885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_193
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 432
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e7a9dff606464f0800000000000000
+      internalID: -836437596671672788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_194
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 428
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18376225b56388260800000000000000
+      internalID: 7099984578397762433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_195
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 428
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3c5553f708e7880800000000000000
+      internalID: -8611304153641794601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_196
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 408
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d4c30c1986e3d40800000000000000
+      internalID: 5566001164681235751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_197
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 415
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513e84023c8adcb80800000000000000
+      internalID: -8372850576198147307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_198
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 404
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5b2e27deb44a630800000000000000
+      internalID: 3937355457435448744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_199
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 404
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a60a8bc199ffa0800000000000000
+      internalID: -5766417544491130247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_200
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 383
+        width: 148
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7103535fe38c7d0800000000000000
+      internalID: -2897997137332660305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_201
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 380
+        width: 135
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702a67894f5d2c400800000000000000
+      internalID: 343071768140227079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_202
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 387
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbc67a2523d79470800000000000000
+      internalID: 8401415786462628861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 387
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65fbc9f7939c9a60800000000000000
+      internalID: 7682177345327461743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_204
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 386
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dad207bf99f7f790800000000000000
+      internalID: -7496248590369367340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_205
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 386
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47976950f78c4e20800000000000000
+      internalID: 3336190890336556875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_206
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 392
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeb88c59df7e8cd0800000000000000
+      internalID: -2553963367135396178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_207
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 392
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bf334ccf931ade0800000000000000
+      internalID: -1323713057683932407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_208
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 381
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb78ce93f66163b0800000000000000
+      internalID: -5521018471652492362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_209
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 367
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92396d89d7166ce50800000000000000
+      internalID: 6829253077016941353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_210
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 367
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28478620f327990800000000000000
+      internalID: -7389774758986612024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_211
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 359
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a441e0b387a71f40800000000000000
+      internalID: 5699208037510759584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_212
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 373
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4af0800683b54a70800000000000000
+      internalID: 8810645634135685710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_213
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 373
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc156c72f71ce1e0800000000000000
+      internalID: -2167330990435525446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_214
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 347
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59185fe02c8011f0800000000000000
+      internalID: -1076206237859178146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_215
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 327
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de26fb1de34c2e0800000000000000
+      internalID: -2106489655122530953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_216
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 325
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240b618b05cda2e00800000000000000
+      internalID: 1020870504796827714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_217
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 325
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685edb787df96cca0800000000000000
+      internalID: -5996930105753082490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_218
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 75
+        width: 135
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0c3110e75831cd0800000000000000
+      internalID: -2588578584577457960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_219
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 75
+        width: 135
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea0ecff5c06e8500800000000000000
+      internalID: 400363820399069926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nabor_220
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 201
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03240ce1a4ef43910800000000000000
+      internalID: 1816356144034103856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
